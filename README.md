@@ -47,7 +47,7 @@ while True:
     s.send("acknowledgement received from the server".encode())
 ```````
 
-## OUPUT
+## OUTPUT
 
 **Client.py**
 
