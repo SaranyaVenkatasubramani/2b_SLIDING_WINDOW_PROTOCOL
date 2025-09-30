@@ -35,6 +35,7 @@ while True:
             print(ack)
             i += s
 `````
+
 **Server.py**
 
 ``````
@@ -47,6 +48,7 @@ while True:
     s.send("acknowledgement received from the server".encode())
 ```````
 
+
 ## OUTPUT
 
 **Client.py**
@@ -56,7 +58,6 @@ while True:
 **Server.py**
 
 <img width="520" height="157" alt="image" src="https://github.com/user-attachments/assets/c20bf04a-8508-44f3-9b9f-e3ce147f131e" />
-
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
