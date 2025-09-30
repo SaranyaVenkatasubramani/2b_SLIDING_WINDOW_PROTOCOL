@@ -10,9 +10,7 @@ To write a python program to perform sliding window protocol
 6. Stop the Program
    
 ## PROGRAM
-
 **Client.py**
-
 `````
 import socket
 s = socket.socket()
